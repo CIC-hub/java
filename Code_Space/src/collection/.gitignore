@@ -5,6 +5,7 @@
 /Main5使用Map.class
 /Person.class
 /Student.class
+<<<<<<< HEAD
 /Main6使用EnumMap.class
 /Main7使用TreeMap.class
 /Main7使用TreeMap$1.class
@@ -16,3 +17,5 @@
 /Message.class
 /Main9使用Queue.class
 /Main10使用Collections.class
+=======
+>>>>>>> 6bd47af67a6b34514a68cf0114e5c9e431f35d5a

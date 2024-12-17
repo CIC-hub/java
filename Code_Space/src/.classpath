@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+<<<<<<< HEAD
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
@@ -12,5 +13,9 @@
 	<classpathentry kind="lib" path="Exception/log4j-core-2.24.2.jar"/>
 	<classpathentry kind="lib" path="Exception/log4j-jcl-2.24.2.jar"/>
 	<classpathentry kind="lib" path="Exception/log4j2.xml"/>
+=======
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path=""/>
+>>>>>>> 6bd47af67a6b34514a68cf0114e5c9e431f35d5a
 	<classpathentry kind="output" path=""/>
 </classpath>
